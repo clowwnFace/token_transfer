@@ -14,7 +14,7 @@ pragma solidity ^0.8.19;
 //burnable
 //event
 
-contract CHTIX {
+contract TokenC {
     address owner;
     string _name;
     string _symbol;
